@@ -1,5 +1,5 @@
 # ICAPS2024_PlanningforStorytelling_Tutorial_Team
-A place to store shared assets for the ICAPS 2024 "Planning for Storytelling" tutorial team members.
+
 
 ### Tentative list of Potential Presenters and Contributors (awaiting confirmation and subject to change):
 
