@@ -1,8 +1,3 @@
----
-title: "Tutorial 04 - Planning for Storytelling"
-date: 2024-05-02
-draft: false
----
 
 # Tutorial 04 - Planning for Storytelling
 
