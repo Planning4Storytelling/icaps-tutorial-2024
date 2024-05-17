@@ -1,5 +1,5 @@
 
-# Tutorial 04 - Planning for Storytelling
+# Tutorial: Planning for Storytelling
 
 ## Abstract
 
