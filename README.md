@@ -1,7 +1,7 @@
 # ICAPS2024_PlanningforStorytelling_Tutorial_Team
 
 
-### Tentative list of Potential Presenters and Contributors (awaiting confirmation and subject to change):
+### Presenters and Contributors (subject to change):
 
 | Subtopic      |  In-person Presenter(s) |  Presenter Status | Contributor(s) | Interactive Component |Slides |
 | ----------- | ----------- | ----------- | ----------- |----------- |----------- |
