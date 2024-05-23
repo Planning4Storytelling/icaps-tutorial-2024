@@ -1,0 +1,6 @@
+move jack door1 lair
+pick_weapon door1 jack
+die_hero_dragon lair jack axe
+defeat_monster cellar jack axe
+die_hero_guard dungeon jack axe
+game_over jack
