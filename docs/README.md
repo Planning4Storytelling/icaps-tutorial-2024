@@ -23,7 +23,7 @@ a variety of automated planning techniques, with a specialty in reasoning under 
 has presented multiple ICAPS tutorials in the past (on Planning.Domains and model acquisition), and is the chief
 architect of several automated planning frameworks (including planning.domains and planutils).
 
-**Rogelio E. Cardona-Rivera** is an Assistant Professor in the Kahlert School of Computing at the University of Utah.
+**Rogelio E. Cardona-Rivera** is an Assistant Professor in the Division of Games with Adjunct Appointment in the Kahlert School of Computing at the University of Utah.
 His research focuses on the design of games, systems where users direct an unfolding experience by taking on
 ludic/dramatic roles. He has a strong track-record of publishing in the space of synthesizing narratives.
 
