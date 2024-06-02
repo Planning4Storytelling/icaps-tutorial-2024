@@ -10,12 +10,12 @@
           weapon - item)
   (:constants ark - item)
   (:predicates (open ark)
-               (alive ?character - character)
-               (armed ?character - character)
-               (buried ?item - item ?place - place)
-               (knows ?character - character ?item - item ?place - place)
-               (at ?character - character ?place - place)
-               (has ?character - character ?item - item))
+    (alive ?character - character)
+    (armed ?character - character)
+    (buried ?item - item ?place - place)
+    (knows ?character - character ?item - item ?place - place)
+    (at ?character - character ?place - place)
+    (has ?character - character ?item - item))
 
   ;; A character travels from one place to another.
   (:action travel
