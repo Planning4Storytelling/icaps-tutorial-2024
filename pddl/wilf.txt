@@ -1,6 +1,6 @@
 The polar bear carries wilf from the iceberg to the shore.
-actionThe walrus carries wilf from the shore to the ridge.
-actionThe musk ox carries wilf from the ridge to the bridge.
+The walrus carries wilf from the shore to the ridge.
+The musk ox carries wilf from the ridge to the bridge.
 The arctic fox guides wilf from the bridge to the trees.
 The goose guides wilf from the trees to the valley.
 The moose carries wilf from the wilds to the valley.
