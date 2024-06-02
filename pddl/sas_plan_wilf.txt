@@ -1,0 +1,8 @@
+(carry polar_bear wilf iceberg shore)
+(carry walrus wilf shore ridge)
+(carry musk_ox wilf ridge bridge)
+(guide arctic_fox wilf bridge trees)
+(guide goose wilf trees valley)
+(carry moose wilf valley wilds)
+(guide bear_moth wilf wilds stream)
+(carry wolf_family wilf stream den)
