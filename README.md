@@ -5,7 +5,7 @@
 
 | Subtopic      |  In-person Presenter(s) |  Presenter Status | Contributor(s) | Interactive Component |Slides |
 | ----------- | ----------- | ----------- | ----------- |----------- |----------- |
-| SUBTOPIC 1 (INTRO/OVERVIEW) : PLAN AS A REPRESENTATION OF A STORY       | Nisha Simon       | confirmed      | Nisha Simon        |--  | [Subtopic 1](slides/ICAPS_Tutorial_Subtopic_1_Overview_v2_June2.pptx)   |   |
+| SUBTOPIC 1 (INTRO/OVERVIEW) : PLAN AS A REPRESENTATION OF A STORY       | Nisha Simon       | confirmed      | Nisha Simon        |--  | [Subtopic 1](slides/ICAPS_Tutorial_Subtopic_1_Overview_v3_June2.pptx)   |   |
 | SUBTOPIC 2: FROM CLASSICAL TO NARRATIVE PLANNING     | Rogelio E. Cardona-Rivera        | confirmed      | Rogelio E. Cardona-Rivera       | --       | |
 | SUBTOPIC 3: MODELING CHARACTERS WITH INTENTION AND CONFLICT      | Rogelio E. Cardona-Rivera        | confirmed      | Rogelio E. Cardona-Rivera       |Demo session       | |
 | SUBTOPIC 4: NARRATIVE DOMAINS AND EXPRESSIVE RANGE |Rogelio E. Cardona-Rivera        | confirmed      | Rogelio E. Cardona-Rivera       |Demo session      | |
