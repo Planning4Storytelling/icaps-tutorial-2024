@@ -122,4 +122,5 @@ Theory of mind in Narrative generation. Creating a story often involves taking a
 
 
 ***Presenters*** : Nisha Simon, Christian Muise, Rogelio E. Cardona-Rivera
+
 ***Citation***: The 34th International Conference on Automated Planning and Scheduling (ICAPS) 2024 Tutorial "Planning for Storytelling", Nisha Simon, Christian Muise, Rogelio E. Cardona-Rivera, Arnav Jhala, Julie Porteous, R. Michael Young, Patrik Haslum, Banff AB, Canada, June 2, 2024.
